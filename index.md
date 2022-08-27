@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "AriaMisa GitBlog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+A place for me to essay out my thoughts and learnings as I explore programming.
