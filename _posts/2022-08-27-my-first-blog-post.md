@@ -1,7 +1,5 @@
 ---
-title: "GitHub-Pages"
+title: "AriaMisa: 1"
 date: 2022-08-27
 ---
-# GitHub Pages
-
-By using markdown and Jekyll themes I can quickly write these blog posts and reinforce my learning process.
+Hi, I'm new to programming and plan to use this blog as a place to reinforce my learning process
